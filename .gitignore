@@ -20,3 +20,8 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+Untitled*.ipynb
+notebooks/Untitled.ipynb
+notebooks/Untitled0.ipynb
+.ihaskell_capture
+.ipynb_checkpoints
