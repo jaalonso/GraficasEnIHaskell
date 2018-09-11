@@ -1,0 +1,15 @@
+#+TITLE: Representación de gráficas con GNUplot en IHaskell.
+
+El objetivo de estos apuntes es mostrar cómo se puede representar
+gráficas de GNUplot en IHaskell.
+
+* Instalación
+
+Para instalarlo se ejecuta
+: stack build
+
+* Inicio
+
+Para iniciar el libro, se ejecuta
+: stack exec jupyter notebook 
+

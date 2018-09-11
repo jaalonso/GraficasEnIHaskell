@@ -1,0 +1,23 @@
+name:       GraficasEnIHaskell
+version:    '0.1.0.0'
+synopsis:   Represención de gráficas con GNUplot en IHaskell.
+category:   Educational
+author:     Jose A. Alonso
+maintainer: JoseA.Alonso@gmail.com
+copyright:  Jose A. Alonso
+license:    BSD3
+github:     jaalonso/GraficasEnIHaskell
+description: >
+  Represención de gráficas con GNUplot en IHaskell.
+
+extra-source-files:
+- README.org
+
+dependencies:
+- base >= 4.7 && < 5
+- ihaskell
+- ihaskell-gnuplot
+
+library:
+  source-dirs: src
+
