@@ -13,3 +13,8 @@ Para instalarlo se ejecuta
 Para iniciar el libro, se ejecuta
 : stack exec jupyter notebook 
 
+* Libro
+
+El libro, que se encuentra en el directorio notebooks, es
+[[https://github.com/jaalonso/GraficasEnIHaskell/blob/master/notebooks/Graficas.ipynb][Graficas.ipynb]].
+ 
