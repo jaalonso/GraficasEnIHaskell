@@ -1,5 +1,5 @@
 #+TITLE: Representación de gráficas con GNUplot en IHaskell.
-
+ 
 El objetivo de estos apuntes es mostrar cómo se puede representar
 gráficas de GNUplot en IHaskell.
 
